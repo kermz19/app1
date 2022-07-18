@@ -1,0 +1,28 @@
+.button {
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.primary {
+    border: solid black;
+    background-color: blue;
+    color: white;
+}
+
+.secondary {
+    border: solid blue;
+    background-color: white;
+    color: blue;
+}
+
+.tertiary {
+    border: solid black;
+    background-color: red;
+    color: white;
+}
+
+.button-text {
+    text-align: center;
+    vertical-align: middle;
+}
