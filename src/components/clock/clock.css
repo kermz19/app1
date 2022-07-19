@@ -1,0 +1,25 @@
+.clock {
+    border: solid black;
+    border-width: 10px;
+    display: flex  ;
+    flex-direction: right;
+    width: 550px;
+    height: 220px;
+    border-radius: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+/* .hour {
+    padding-left: 8px;
+}
+
+.second {
+    padding-right: 8px;
+} */
+
+.time {
+    margin: auto;
+}
+.hour, .minute, .second {
+    display: inline;
+    font-size: 100px;
+}

@@ -1,0 +1,17 @@
+.header {
+    height: 80px;
+    width: inherit;
+    /* border: solid black; */
+    background-color: lightblue;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: right;
+    justify-content: right;
+    /* border: solid black; */
+}
+
+.button1 .button2 {
+    display: inline;
+}
